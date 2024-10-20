@@ -1,0 +1,13 @@
+package com.example.reviewcore;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class ReviewCoreApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(ReviewCoreApplication.class, args);
+    }
+
+}
